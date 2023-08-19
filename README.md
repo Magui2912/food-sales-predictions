@@ -1,1 +1,2 @@
-# food-sales-predictions
+<p align = "center"> 
+# sales-predictions
